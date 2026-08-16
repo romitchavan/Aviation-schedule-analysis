@@ -103,12 +103,29 @@ The day-level table exists because a single schedule can legitimately operate on
 | 9 | Akasa Air | 1.22% |
 | 10 | TruJet | 0.89% |
 
-- **Route competitiveness**: 627 routes (18.65%) are monopoly routes — served by a single airline — while 2,735 routes (81.35%) are competitive, served by two or more airlines.
+- **Route competitiveness**: 627 routes (44.06%) are monopoly routes — served by a single airline — while 796 routes (55.94%) are competitive, served by two or more airlines.
 - **Route network reach**: IndiGo, SpiceJet, and Alliance Air (India) are also the top 3 airlines by number of routes covered, closely mirroring their flight-volume dominance.
 - **Day-of-week demand**: Flight volume is fairly consistent across the week, with only minor variation. Busiest to slowest order: Saturday → Tuesday → Thursday → Friday → Sunday → Monday.
 - **Time-of-day demand**: Morning, afternoon, and evening account for the large majority of flight volume, while night and early-morning slots see comparatively little activity.
 - **Overnight operations**: Only 2.1% of flights are overnight, indicating the Indian domestic market is overwhelmingly daytime-driven.
 - **Multi-year trend**: From 2019 to 2024, IndiGo has consistently held the dominant position in India's domestic aviation market, with its lead widening over the period.
+
+---
+
+## Business Applications
+
+| Finding | Business Use |
+|---|---|
+| Market share (IndiGo 56.5%) | Signals market leadership for investment/competitive analysis |
+| Monopoly routes (44.06%) | Flags low-competition routes as potential market-entry opportunities |
+| Competitive routes (55.94%) | Highlights where price, frequency, and service differentiation matter most |
+| Route coverage by airline | Distinguishes network expansion strategy from simple frequency growth |
+| Busiest routes | Informs aircraft allocation and capacity planning |
+| Time-of-day distribution | Supports schedule optimization and aircraft utilization |
+| Day-of-week patterns | Aids crew and fleet planning across the week |
+| Overnight flight % (2.1%) | Points to underused time slots for potential aircraft utilization |
+| Average flight duration | Assists turnaround, crew, and scheduling planning |
+| Multi-year market share trend | Enables competitive intelligence and long-term strategy tracking |
 
 ---
 
