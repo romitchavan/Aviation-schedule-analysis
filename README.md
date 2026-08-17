@@ -54,7 +54,7 @@ The day-level table exists because a single schedule can legitimately operate on
 ## Dashboard Screenshots
 
 - [Page 1 — Market Share & Routes](https://github.com/romitchavan/Aviation-schedule-analysis/blob/main/Screenshots/Dashboard_Page_1.png)
-- [Page 2 — Network Depth & Time Patterns](https://github.com/romitchavan/Aviation-schedule-analysis/blob/main/screenshots/Dashboard_Page_2.png)
+- [Page 2 — Network Depth & Time Patterns](https://github.com/romitchavan/Aviation-schedule-analysis/blob/main/Screenshots/Dashboard_Page_2.png)
 
 
 ---
